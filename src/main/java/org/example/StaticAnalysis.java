@@ -16,6 +16,7 @@ public class StaticAnalysis
         String length = "";
     }
 
+
     public static String calculateCost(int weight, int length, String product)
     {
         int cost = 0;
